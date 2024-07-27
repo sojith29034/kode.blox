@@ -1,0 +1,8 @@
+Image used: https://www.pexels.com/photo/black-laptop-computer-turned-on-showing-computer-codes-177598/
+Fontawesome: https://fontawesome.com/
+
+Other: 
+Freepik: https://www.freepik.com/
+
+Goal:
+Image: \goal.png
